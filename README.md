@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="left">Oi 👋 Sou o Gabriel Trifoni!</h1>
 
-<!--
-**GabrielTrifoni/GabrielTrifoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.tenor.com/7JNExCWqRtgAAAAC/lweo-yuyu.gif"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+- Estudante de Ciências da Computação pela UNESP de Rio Claro.
+- Faço projetos geralmente em C e Java.
+- Aprendendo HTML, JavaScript, CSS e Python. 
+
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrifoni&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
