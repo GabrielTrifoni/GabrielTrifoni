@@ -1,9 +1,9 @@
 <h1 align="left">Oi 👋 Sou o Gabriel Trifoni!</h1>
 
-<img src="https://media.tenor.com/7JNExCWqRtgAAAAC/lweo-yuyu.gif"/>
-
+<img src="https://media.tenor.com/7JNExCWqRtgAAAAC/lweo-yuyu.gif" height=324 width=182/>
 
 #
+
 - Estudante de Ciências da Computação pela UNESP de Rio Claro.
 - Faço projetos geralmente em C e Java.
 - Aprendendo HTML, JavaScript, CSS e Python. 
