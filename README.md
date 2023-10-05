@@ -4,7 +4,7 @@
 
 #
 
-- Estudo Ciências da Computação pela UNESP de Rio Claro.
+- Estudo Ciências da Computação na UNESP de Rio Claro.
 - Faço projetos geralmente em C e Java.
 - Aprendendo HTML, JavaScript, CSS e Python. 
 
