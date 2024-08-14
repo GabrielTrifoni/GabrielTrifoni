@@ -4,10 +4,6 @@
 
 #
 
-- Estudo Ciências da Computação na UNESP de Rio Claro.
-- Faço projetos geralmente em C ou Java.
-- Aprendendo Python, HTML, JavaScript, CSS. 
-
-#
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrifoni&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+- Estudo Ciências da Computação na UNESP de Rio Claro;
+- Trabalhando com React, React Native e Node.js/NestJS;
+- Aprofundando meu conhecimento em JavaScript/TypeScript, Kotlin, Java, SpringBoot.
