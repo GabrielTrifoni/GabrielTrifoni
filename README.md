@@ -4,6 +4,6 @@
 
 #
 
-- Estudo Ciências da Computação na UNESP de Rio Claro;
 - Trabalhando com React, React Native e Node.js/NestJS;
-- Aprofundando meu conhecimento em JavaScript/TypeScript, Kotlin, Java, SpringBoot.
+- Estudo Ciências da Computação na UNESP de Rio Claro;
+- Aprofundando meu conhecimento em TypeScript, Kotlin, Java e SpringBoot.
