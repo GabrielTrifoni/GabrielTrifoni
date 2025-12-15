@@ -1,5 +1,5 @@
-<h1 align="left">Oi 👋 Me chamo Gabriel Trifoni!</h1>
+<h1 align="left">Hi 👋 I'm Gabriel Trifoni!</h1>
 
-- Trabalho como desenvolvedor na empresa CI&T;
-- Formando em Ciências da Computação na UNESP de Rio Claro;
-- Sempre aprofundando meu conhecimento!
+- Working as Software Developer for [CI&T](https://www.linkedin.com/company/ciandt/about/)! 💻
+- Graduated in Computer Science from UNESP (São Paulo State University)! 🎓
+- Always deepening my knowledge! 📚
