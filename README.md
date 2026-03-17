@@ -2,7 +2,7 @@
 
 - Working as Software Developer & AI/Agent Developer for [CI&T](https://www.linkedin.com/company/ciandt/about/)! 💻
 - Graduated in Computer Science from [UNESP (São Paulo State University)](https://www.linkedin.com/school/unesp---universidade-estadual-paulista-j-lio-de-mesquita-filho-/about/)! 🎓
-- Databricks Certified Data Engineer Associate! 🏅
+- [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/875f52ca-128c-4006-bccf-b4865079e8ed#acc.igDFW9ar)! 🏅
 - Always deepening my knowledge! 📚
 
 I build AI agents, agentic applications and MCP servers that connect directly with enterprise systems.
